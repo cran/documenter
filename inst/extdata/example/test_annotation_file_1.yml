@@ -1,0 +1,19 @@
+creator: Zach
+company: Big company
+title: Documentation
+subtitle: Interesting document descriptions
+cover_notes: Some additional notes
+date: ~
+overview_file: OVERVIEW
+authors:
+  author_1: Zach
+  author_2: Someone else
+annotations:
+  annotation_1:
+    path: FolderA/documenter.html
+    description: An HTML document
+    comments: Some comments.\nEven more comments
+  annotation_2:
+    path: FolderB/documenter.R
+    description: An R file
+    comments: This document contains code.\nIt was generated from the .Rmd file.
