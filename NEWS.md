@@ -1,12 +1,12 @@
-# documenter 0.1.2
+# documenter 0.1.3
 
-* Corrected the vignette title.
+* We are now using the new officer function to parse docx files: docx_current_block_xml.
 
-* Removed the "lazy data" line in the DESCRIPTION file.
 
-* Set the "create_annotation_file" example to not run.
+* Fixed error in configuration of GitHub actions.
 
-* Replaced "travis" badge in README with "GitHub Actions" badge.
+
+* Removed xml2 import
 
 
 
